@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite failures="0" errors="0" skipped="0" tests="1" time="4.455407" name="POC BDD">
+<testcase classname="POC BDD" name="Search Google (uid:ab630da6-063f-4c01-a793-cae2b2c97299)" time="4.455407">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+</testsuite>

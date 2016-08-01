@@ -1,0 +1,15 @@
+---
+- name: i open Google home page
+  uid: 98ab77dd-6faa-45ea-a5ca-ddf4a80def82
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: i search for "p1"
+  uid: c79c68cf-935d-43da-a7c1-6da3b3e05f08
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: i see "p1" in page results
+  uid: 72194037-1953-4ad6-a245-90b5cdb9ced7
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
